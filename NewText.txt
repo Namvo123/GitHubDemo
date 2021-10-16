@@ -1,1 +1,3 @@
 This is a new Text to test GitHub
+
+this is second line in newText to test GitHub
